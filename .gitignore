@@ -1,0 +1,27 @@
+# Environnements virtuels
+.venv/
+venv/
+env/
+
+# Fichiers Python temporaires
+__pycache__/
+*.py[cod]
+
+# Bases de données locales 
+*.db
+*.sqlite3
+
+# Fichiers de configuration personnels
+.env
+
+# Fichiers des éditeurs
+.vscode/
+.idea/
+
+# Fichiers système
+.DS_Store
+Thumbs.db
+
+# Rapports de tests
+.coverage
+htmlcov/
